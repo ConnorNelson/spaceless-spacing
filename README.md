@@ -1,5 +1,9 @@
 # Spaceless Spacing
 
+Presentation about the challenge released at WCTF 2020: [https://www.youtube.com/watch?v=Oz0NtokfbqU](https://www.youtube.com/watch?v=Oz0NtokfbqU).
+
+Presentation slides: [slides.pdf](/slides.pdf).
+
 This challenge is based off of [Timeless Timing Attacks: Exploiting Concurrency to Leak Secrets over Remote Connections](https://www.usenix.org/system/files/sec20-van_goethem.pdf).
 
 The exploit is also based off of the repo associated with this paper: [DistriNet/timeless-timing-attacks](https://github.com/DistriNet/timeless-timing-attacks).
