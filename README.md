@@ -10,7 +10,7 @@ The exploit is also based off of the repo associated with this paper: [DistriNet
 
 # Abstract
 To perform successful remote timing attacks, an adversary typically collects a series of network timing measurements and subsequently performs statistical analysis to reveal a difference in execution time.
-The number of measurements that must be obtained largely depends on the amount of jitter thatthe requests and responses are subjected to.
+The number of measurements that must be obtained largely depends on the amount of jitter that the requests and responses are subjected to.
 In remote timing attacks, a significant source of jitter is the network path between the adversary and the targeted server, making it practically infeasible to successfully exploit timing side-channels that exhibit only a small difference in execution time.
 
 In this paper, we introduce a conceptually novel type of timing attack that leverages the coalescing of packets by network protocols and concurrent handling of requests by applications.
